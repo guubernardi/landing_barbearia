@@ -45,6 +45,19 @@ Projeto focado em apresentar a barbearia, reforçar a autoridade da marca (desta
 
 ---
 
+⚖️ Licença
+
+Este projeto é de código proprietário.
+
+Todo o código fonte, layout, textos e imagens presentes neste repositório são disponibilizados apenas para fins de visualização e portfólio.
+
+Não é permitido copiar, modificar, redistribuir ou utilizar este projeto, total ou parcialmente, em trabalhos pessoais, comerciais ou acadêmicos sem autorização prévia e expressa por escrito do autor.
+
+Consulte o arquivo LICENSE
+ para mais detalhes.
+
+---
+
 ## 📁 Estrutura de arquivos
 
 Principais arquivos do projeto:
@@ -63,15 +76,3 @@ Principais arquivos do projeto:
 │   ├── corte_ruivo.jpeg
 │   └── criança_corte2.jpg
 └── LICENSE           # Termos de uso do código
-
-
-⚖️ Licença
-
-Este projeto é de código proprietário.
-
-Todo o código fonte, layout, textos e imagens presentes neste repositório são disponibilizados apenas para fins de visualização e portfólio.
-
-Não é permitido copiar, modificar, redistribuir ou utilizar este projeto, total ou parcialmente, em trabalhos pessoais, comerciais ou acadêmicos sem autorização prévia e expressa por escrito do autor.
-
-Consulte o arquivo LICENSE
- para mais detalhes.
